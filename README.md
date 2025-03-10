@@ -1,8 +1,8 @@
-- 👋 Hi, I’m ACE.
+- 👋 Hi, I’m ABDALLA ALI.
 - 👀 exploring new cultures and learning about different perspectives.
 - 🌱 I'm currently learning how to code and develop websites.
-- 💞️ creative projects that involve storytelling and technology.
-- 📫 How to reach me through direct message on this platform.
+- 💞️ i LOVE creative projects that involve storytelling and technology.
+- 📫 You can reach me through direct message on this platform.
 - ⚡ Fun fact: I can solve a Rubik's Cube in under a minute.
 
 <!---
